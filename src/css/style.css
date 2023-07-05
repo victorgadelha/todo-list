@@ -45,6 +45,10 @@ select {
     padding: 0.25rem 0.5rem;
 }
 
+.hide {
+    display: none;
+}
+
 /*Todo header */
 
 .todo-container {
